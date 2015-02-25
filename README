@@ -1,0 +1,7 @@
+This project implements an Expression Tree ADT as a binary tree that contains nodes which store the terms and operators of an expression entered from the standard input in post-fix notation. 
+The C++ ExpTree class includes methods to evaluate and print the expression in a variety of formats (postorder, preorder, inorder). 
+This project contains three files:
+	ExpTree.h -- Interface file for ExpTree class 
+	ExpTree.cpp -- Implementation file fo ExpTree class that contains the main driver function 
+	COEN70_lab8.pdf -- Documentation for the project provided by the Santa Clara University Department of Computer Engineering . 
+
